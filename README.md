@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/579gW9cJf3mqPTTg7G/giphy.gif" width="250"/>
   <div id="badges">
     <a href="https://t.me/anton606">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	  </a>
+	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
   </div>
-  <h1>
+  <h3>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h3>
 </div>
 
 ---
@@ -43,6 +43,19 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png?w=256&f=avif" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png?w=512&f=avif" title="Git" **alt="Git" width="40" height="40"/> 
 </div>
+
+---
+
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntonGorbenkoo&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonGorbenkoo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    
+
+
+
 
 
 
