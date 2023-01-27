@@ -22,7 +22,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time I study new technologies and write code.
+- :zap: I study new technologies on writing code in my free time.
 
 - :mailbox:How to reach me: Antongorbenko@gmail.com
 
